@@ -1,5 +1,8 @@
 <h1>Hi, I'm Vincent 👋</h1>
-<p>I'm a Web Developer passionate about creating user-friendly digital solutions. Eager to contribute to a dynamic team and continuously learn in the tech industry. 🚀</p>
+<p>I am an information technology fresh graduate with 2 years of experience in the IT sector, which has helped me enhanced
+my skills in web development, UI/UX design, and data engineering. Throughout my studies, I have completed several
+projects, such as developing content management system, learning management system, and monitoring dashboard using
+Laravel PHP, React, Java Springboot, and Tailwind. 🚀</p>
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/vchandra22/vchandra22/output/github-snake-dark.svg" />
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/vchandra22/vchandra22/output/github-snake.svg" />
